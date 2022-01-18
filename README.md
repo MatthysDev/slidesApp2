@@ -1,6 +1,6 @@
-# Mdx slides template
+# Alternation slides
 
-I make this project with mdx-deck slides to have a template
+I make this project with mdx-deck slides to have a support for my alternation presentation 
 
 ## Start the project
 
